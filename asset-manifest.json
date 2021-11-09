@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/prabutechie/hexatrel.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/prabutechie/hexatrel.git/static/js/main.29330835.chunk.js",
-    "main.js.map": "/prabutechie/hexatrel.git/static/js/main.29330835.chunk.js.map",
-    "runtime-main.js": "/prabutechie/hexatrel.git/static/js/runtime-main.7d85163a.js",
-    "runtime-main.js.map": "/prabutechie/hexatrel.git/static/js/runtime-main.7d85163a.js.map",
-    "static/js/2.b0438d91.chunk.js": "/prabutechie/hexatrel.git/static/js/2.b0438d91.chunk.js",
-    "static/js/2.b0438d91.chunk.js.map": "/prabutechie/hexatrel.git/static/js/2.b0438d91.chunk.js.map",
-    "static/js/3.82ee970e.chunk.js": "/prabutechie/hexatrel.git/static/js/3.82ee970e.chunk.js",
-    "static/js/3.82ee970e.chunk.js.map": "/prabutechie/hexatrel.git/static/js/3.82ee970e.chunk.js.map",
+    "main.css": "/prabutechie/hexatrel.git/static/css/main.59a2abdd.chunk.css",
+    "main.js": "/prabutechie/hexatrel.git/static/js/main.2a773e7e.chunk.js",
+    "main.js.map": "/prabutechie/hexatrel.git/static/js/main.2a773e7e.chunk.js.map",
+    "runtime-main.js": "/prabutechie/hexatrel.git/static/js/runtime-main.0804a3c7.js",
+    "runtime-main.js.map": "/prabutechie/hexatrel.git/static/js/runtime-main.0804a3c7.js.map",
+    "static/js/2.b55790af.chunk.js": "/prabutechie/hexatrel.git/static/js/2.b55790af.chunk.js",
+    "static/js/2.b55790af.chunk.js.map": "/prabutechie/hexatrel.git/static/js/2.b55790af.chunk.js.map",
     "index.html": "/prabutechie/hexatrel.git/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/prabutechie/hexatrel.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b0438d91.chunk.js.LICENSE.txt": "/prabutechie/hexatrel.git/static/js/2.b0438d91.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/prabutechie/hexatrel.git/static/media/logo.6ce24c58.svg"
+    "static/css/main.59a2abdd.chunk.css.map": "/prabutechie/hexatrel.git/static/css/main.59a2abdd.chunk.css.map",
+    "static/js/2.b55790af.chunk.js.LICENSE.txt": "/prabutechie/hexatrel.git/static/js/2.b55790af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d85163a.js",
-    "static/js/2.b0438d91.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.29330835.chunk.js"
+    "static/js/runtime-main.0804a3c7.js",
+    "static/js/2.b55790af.chunk.js",
+    "static/css/main.59a2abdd.chunk.css",
+    "static/js/main.2a773e7e.chunk.js"
   ]
 }
